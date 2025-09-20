@@ -41,7 +41,10 @@ $ make
 $ sudo make install
 
 ```
- ## ***The image for the Yosys Download***
+ **The image for the Yosys Download**
+
+<img width="1714" height="498" alt="Screenshot 2025-09-20 020834" src="https://github.com/user-attachments/assets/aaece520-380a-4f20-815f-a7bb6e88c20d" />
+
 
 
 

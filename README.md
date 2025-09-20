@@ -15,8 +15,8 @@
 
 ### Resizing the Ubuntu window to fit the Screen
 
-- $sudo apt update
-- $sudo apt install build-essential dkms linux-headers-$(uname -r)
+-$sudo apt update
+ $sudo apt install build-essential dkms linux-headers-$(uname -r)
 - $cd /media/<your-username>/VBox_GAs_<version>/
 - $sudo ./autorun.sh
 

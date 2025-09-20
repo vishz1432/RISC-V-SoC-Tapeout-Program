@@ -15,10 +15,10 @@
 
 ### Resizing the Ubuntu window to fit the Screen
 ```bash
-sudo apt update
-sudo apt install build-essential dkms linux-headers-$(uname -r)
-cd /media/specta/VBox_GAs_7.1.8/
-./autorun.sh
+$ sudo apt update
+$ sudo apt install build-essential dkms linux-headers-$(uname -r)
+$ cd /media/specta/VBox_GAs_7.1.8/
+$ ./autorun.sh
 
 
 

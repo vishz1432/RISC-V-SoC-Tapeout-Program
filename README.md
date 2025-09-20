@@ -4,3 +4,5 @@
 ------------------------------------------------------------------------------------------------
 ## Tools Installation 
 
+***All the instructions for installation of required tools can be found here:
+

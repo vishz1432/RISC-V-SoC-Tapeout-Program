@@ -41,9 +41,22 @@ $ make
 $ sudo make install
 
 ```
- **The image for the Yosys Download**
+ **The image for the Yosys Download:**
 
 <img width="1714" height="498" alt="Screenshot 2025-09-20 020834" src="https://github.com/user-attachments/assets/aaece520-380a-4f20-815f-a7bb6e88c20d" />
+
+
+**Iverilog**
+
+```bash
+$ sudo apt-get update
+$ sudo apt-get install iverilog
+
+```
+
+<img width="1088" height="717" alt="Screenshot 2025-09-20 205057" src="https://github.com/user-attachments/assets/97c06908-bf50-498d-93ee-831e0e003905" />
+
+
 
 
 

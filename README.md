@@ -54,7 +54,8 @@ $ sudo apt-get install iverilog
 
 ```
 
-<img width="1088" height="717" alt="Screenshot 2025-09-20 205057" src="https://github.com/user-attachments/assets/97c06908-bf50-498d-93ee-831e0e003905" />
+<img width="938" height="437" alt="Screenshot 2025-09-20 205708" src="https://github.com/user-attachments/assets/da7fc5fb-a11c-4fe4-8806-aa06e56b6c08" />
+
 
 
 

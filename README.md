@@ -14,13 +14,11 @@
 - 4 vCPU
 
 ### Resizing the Ubuntu window to fit the Screen
- `##` → second-level heading (System Requirements).
-2. `-` → bullet points.
-3. `###` → third-level heading (Resizing...).
-4. Triple backticks (```) → create a **code block**.  
-   - Adding `bash` after ``` makes it colorful (syntax highlighting for shell commands).
 
----
+sudo apt update
+sudo apt install build-essential dkms linux-headers-$(uname -r)
+cd /media/<your-username>/VBox_GAs_<version>/
+sudo ./autorun.sh
 
 
 
